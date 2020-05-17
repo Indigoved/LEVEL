@@ -3421,3 +3421,239 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.17-13.38.07:636][347]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_103, compiling. 
 [2020.05.17-13.38.07:689][349]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
 [2020.05.17-13.38.08:877][378]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.05.17-13.38.13:132][486]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_95, compiling. 
+[2020.05.17-13.38.13:145][486]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.05.17-13.38.13:145][486]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.05.17-13.38.13:145][486]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_95, compiling. 
+[2020.05.17-13.38.13:184][488]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.05.17-13.38.13:211][488]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_83, compiling. 
+[2020.05.17-13.38.13:224][488]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_83, compiling. 
+[2020.05.17-13.38.14:205][514]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.05.17-13.38.14:459][520]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.05.17-13.38.15:007][533]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.05.17-13.38.28:627][882]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_76, compiling. 
+[2020.05.17-13.38.28:639][882]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_76, compiling. 
+[2020.05.17-13.38.28:648][883]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.05.17-13.38.28:648][883]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.05.17-13.38.28:687][884]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.05.17-13.38.29:131][895]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.05.17-13.38.45:825][339]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_69, compiling. 
+[2020.05.17-13.38.45:839][339]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.05.17-13.38.45:839][339]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.05.17-13.38.45:839][339]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_69, compiling. 
+[2020.05.17-13.38.45:891][341]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.05.17-13.38.46:327][352]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.05.17-13.39.05:158][852]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_84, compiling. 
+[2020.05.17-13.39.05:172][852]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_84, compiling. 
+[2020.05.17-13.39.05:180][853]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.05.17-13.39.05:180][853]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.05.17-13.39.05:219][854]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.05.17-13.39.05:663][865]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.05.17-13.40.18:504][812]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_15, compiling. 
+[2020.05.17-13.40.18:517][812]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.05.17-13.40.18:517][812]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.05.17-13.40.18:517][812]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_15, compiling. 
+[2020.05.17-13.40.18:557][814]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.05.17-13.40.18:716][818]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_34, compiling. 
+[2020.05.17-13.40.18:731][818]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_34, compiling. 
+[2020.05.17-13.40.18:759][819]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_35, compiling. 
+[2020.05.17-13.40.18:773][819]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_35, compiling. 
+[2020.05.17-13.40.19:103][829]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_46, compiling. 
+[2020.05.17-13.40.19:116][829]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_46, compiling. 
+[2020.05.17-13.40.19:184][832]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.05.17-13.40.19:374][837]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2020.05.17-13.40.19:532][841]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.05.17-13.40.20:768][873]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.05.17-13.40.20:823][874]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Bark_Fir_01, compiling. 
+[2020.05.17-13.40.20:833][874]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Bark_Fir_01, compiling. 
+[2020.05.17-13.40.20:861][875]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_leaves_Fir, compiling. 
+[2020.05.17-13.40.20:871][875]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_leaves_Fir, compiling. 
+[2020.05.17-13.40.20:883][875]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_leaves_Fir, compiling. 
+[2020.05.17-13.40.20:915][876]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Imposter_Fir_01, compiling. 
+[2020.05.17-13.40.20:929][876]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Imposter_Fir_01, compiling. 
+[2020.05.17-13.40.20:941][876]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Imposter_Fir_01, compiling. 
+[2020.05.17-13.40.21:074][880]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Bark_Fir_03_02, compiling. 
+[2020.05.17-13.40.21:086][880]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Bark_Fir_03_02, compiling. 
+[2020.05.17-13.40.21:257][885]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2020.05.17-13.40.21:464][891]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Imposter_Fir_08, compiling. 
+[2020.05.17-13.40.21:475][891]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Imposter_Fir_08, compiling. 
+[2020.05.17-13.40.21:485][891]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Imposter_Fir_08, compiling. 
+[2020.05.17-13.40.24:109][894]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2020.05.17-13.40.24:109][894]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.05.17-13.40.24:109][894]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.05.17-13.40.24:110][894]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.05.17-13.40.24:110][894]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.05.17-13.40.24:110][894]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.05.17-13.45.51:237][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.05.17-13.46.21:120][397]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.17-13.46.37:673][905]Cmd: STAT FPS
+[2020.05.17-13.46.45:364][502]=== Lightmass crashed: ===Unhandled Exception: EXCEPTION_ACCESS_VIOLATION writing address 0x00000000
+Unhandled Exception: EXCEPTION_ACCESS_VIOLATION writing address 0x00000000
+
+0x00007ff636ece683 UnrealLightmass.exe!Lightmass::FEmbreeGeometry::FEmbreeGeometry() []
+0x00007ff636ed6f93 UnrealLightmass.exe!Lightmass::FEmbreeAggregateMesh::AddMesh() []
+0x00007ff636f242b4 UnrealLightmass.exe!Lightmass::FStaticLightingSystem::FStaticLightingSystem() []
+0x00007ff636edab54 UnrealLightmass.exe!Lightmass::BuildStaticLighting() []
+0x00007ff636efe11d UnrealLightmass.exe!Lightmass::LightmassMain() []
+0x00007ff636f1cb1a UnrealLightmass.exe!main() []
+0x00007ff636f85cfc UnrealLightmass.exe!__scrt_common_main_seh() []
+0x00007ffb92837bd4 KERNEL32.DLL!UnknownFunction []
+0x00007ffb9318ce51 ntdll.dll!UnknownFunction []
+
+[2020.05.17-13.46.45:368][502]LightingResults: Error: <None> === Lightmass crashed: ===Unhandled Exception: EXCEPTION_ACCESS_VIOLATION writing address 0x00000000
+Unhandled Exception: EXCEPTION_ACCESS_VIOLATION writing address 0x00000000
+
+0x00007ff636ece683 UnrealLightmass.exe!Lightmass::FEmbreeGeometry::FEmbreeGeometry() []
+0x00007ff636ed6f93 UnrealLightmass.exe!Lightmass::FEmbreeAggregateMesh::AddMesh() []
+0x00007ff636f242b4 UnrealLightmass.exe!Lightmass::FStaticLightingSystem::FStaticLightingSystem() []
+0x00007ff636edab54 UnrealLightmass.exe!Lightmass::BuildStaticLighting() []
+0x00007ff636efe11d UnrealLightmass.exe!Lightmass::LightmassMain() []
+0x00007ff636f1cb1a UnrealLightmass.exe!main() []
+0x00007ff636f85cfc UnrealLightmass.exe!__scrt_common_main_seh() []
+0x00007ffb92837bd4 KERNEL32.DLL!UnknownFunction []
+0x00007ffb9318ce51 ntdll.dll!UnknownFunction []
+
+[2020.05.17-13.46.45:517][509]*** CRITICAL ERROR! Machine: DESKTOP-9MTLCG4
+[2020.05.17-13.46.45:518][509]*** CRITICAL ERROR! Logfile: UnrealLight_DESKTOP-9MTLCG4_B85591CC4539EF8434DBF582C02DBBA7.log
+[2020.05.17-13.46.45:518][509]*** CRITICAL ERROR! Crash report: 
+[2020.05.17-13.46.46:859][570]Job has failed! Job executable didn't exit cleanly. Exit code: 1
+[2020.05.17-13.46.46:861][570]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build failed.
+[2020.05.17-13.46.52:578][570]DumpUnbuiltLightIteractions
+[2020.05.17-13.46.52:578][570]Lights with unbuilt interactions: 0
+[2020.05.17-13.46.52:578][570]
+[2020.05.17-13.46.52:578][570]Primitives with unbuilt interactions: 0
+[2020.05.17-13.46.53:859][571]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.05.17-13.46.53:859][571]MapCheck: New page: Start_Level - 17 мая 2020 г., 19:46:53
+[2020.05.17-13.46.53:862][571]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3,443ms to complete.
+[2020.05.17-13.47.09:036][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.05.17-13.47.09:462][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Start_Level_Auto178099C1347DB25AE3A5A24A715354EBC.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Start_Level_Auto1.umap'
+[2020.05.17-13.47.09:527][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x0_y0, Actor: /Game/Level/Landscape/Qal/Qal_x0_y0.Qal_x0_y0:PersistentLevel.REINST_Qal_x0_y0_C_0
+[2020.05.17-13.47.10:228][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x0_y0_Auto14F0CF636426F726C730237A41B831AB7.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x0_y0_Auto1.umap'
+[2020.05.17-13.47.10:260][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x0_y1, Actor: /Game/Level/Landscape/Qal/Qal_x0_y1.Qal_x0_y1:PersistentLevel.REINST_Qal_x0_y1_C_0
+[2020.05.17-13.47.10:825][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x0_y1_Auto1F5E69566466377FEA0D1DC9E2AF631D2.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x0_y1_Auto1.umap'
+[2020.05.17-13.47.10:861][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x0_y2, Actor: /Game/Level/Landscape/Qal/Qal_x0_y2.Qal_x0_y2:PersistentLevel.REINST_Qal_x0_y2_C_0
+[2020.05.17-13.47.11:452][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x0_y2_Auto10D2890AF4E34A69224771EB1D230E935.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x0_y2_Auto1.umap'
+[2020.05.17-13.47.11:574][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x0_y3, Actor: /Game/Level/Landscape/Qal/Qal_x0_y3.Qal_x0_y3:PersistentLevel.REINST_Qal_x0_y3_C_0
+[2020.05.17-13.47.12:192][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x0_y3_Auto150D12B0C4B5F15FB8CEA7F8B1C47900F.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x0_y3_Auto1.umap'
+[2020.05.17-13.47.12:226][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x0_y4, Actor: /Game/Level/Landscape/Qal/Qal_x0_y4.Qal_x0_y4:PersistentLevel.REINST_Qal_x0_y4_C_0
+[2020.05.17-13.47.12:838][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x0_y4_Auto11741B452449FD83408859F880D1E1889.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x0_y4_Auto1.umap'
+[2020.05.17-13.47.12:874][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x0_y5, Actor: /Game/Level/Landscape/Qal/Qal_x0_y5.Qal_x0_y5:PersistentLevel.REINST_Qal_x0_y5_C_0
+[2020.05.17-13.47.13:535][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x0_y5_Auto19FC2E78E4DE1B1852D29CA90E347A07C.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x0_y5_Auto1.umap'
+[2020.05.17-13.47.13:566][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x0_y6, Actor: /Game/Level/Landscape/Qal/Qal_x0_y6.Qal_x0_y6:PersistentLevel.REINST_Qal_x0_y6_C_0
+[2020.05.17-13.47.14:210][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x0_y6_Auto183524B184BDA20E91177D38A3F636B2D.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x0_y6_Auto1.umap'
+[2020.05.17-13.47.14:251][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x0_y7, Actor: /Game/Level/Landscape/Qal/Qal_x0_y7.Qal_x0_y7:PersistentLevel.REINST_Qal_x0_y7_C_0
+[2020.05.17-13.47.14:823][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x0_y7_Auto11E49C0F343AE689D521347B9E7F04F11.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x0_y7_Auto1.umap'
+[2020.05.17-13.47.14:853][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x1_y0, Actor: /Game/Level/Landscape/Qal/Qal_x1_y0.Qal_x1_y0:PersistentLevel.REINST_Qal_x1_y0_C_0
+[2020.05.17-13.47.15:331][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x1_y0_Auto146A54A2E46F18B9B549EEEAF73389918.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x1_y0_Auto1.umap'
+[2020.05.17-13.47.15:360][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x1_y1, Actor: /Game/Level/Landscape/Qal/Qal_x1_y1.Qal_x1_y1:PersistentLevel.REINST_Qal_x1_y1_C_0
+[2020.05.17-13.47.15:821][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x1_y1_Auto1C0227DF94BC9F1647064668B0BA9DD46.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x1_y1_Auto1.umap'
+[2020.05.17-13.47.15:851][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x1_y2, Actor: /Game/Level/Landscape/Qal/Qal_x1_y2.Qal_x1_y2:PersistentLevel.REINST_Qal_x1_y2_C_0
+[2020.05.17-13.47.16:343][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x1_y2_Auto1F7089C294EC1FA18021CF1A8D0221B1A.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x1_y2_Auto1.umap'
+[2020.05.17-13.47.16:373][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x1_y3, Actor: /Game/Level/Landscape/Qal/Qal_x1_y3.Qal_x1_y3:PersistentLevel.REINST_Qal_x1_y3_C_0
+[2020.05.17-13.47.16:860][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x1_y3_Auto1B6507A69403257DC94496A8A7617215B.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x1_y3_Auto1.umap'
+[2020.05.17-13.47.16:890][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x1_y4, Actor: /Game/Level/Landscape/Qal/Qal_x1_y4.Qal_x1_y4:PersistentLevel.REINST_Qal_x1_y4_C_0
+[2020.05.17-13.47.17:393][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x1_y4_Auto1F92B3B88484379240D787CB82003581B.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x1_y4_Auto1.umap'
+[2020.05.17-13.47.17:423][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x1_y5, Actor: /Game/Level/Landscape/Qal/Qal_x1_y5.Qal_x1_y5:PersistentLevel.REINST_Qal_x1_y5_C_0
+[2020.05.17-13.47.17:931][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x1_y5_Auto1CBCE87354064DDBA18C86CA842725044.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x1_y5_Auto1.umap'
+[2020.05.17-13.47.17:960][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x1_y6, Actor: /Game/Level/Landscape/Qal/Qal_x1_y6.Qal_x1_y6:PersistentLevel.REINST_Qal_x1_y6_C_0
+[2020.05.17-13.47.18:497][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x1_y6_Auto150D4164D45F41D693663C1ADF1B7A87B.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x1_y6_Auto1.umap'
+[2020.05.17-13.47.18:526][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x1_y7, Actor: /Game/Level/Landscape/Qal/Qal_x1_y7.Qal_x1_y7:PersistentLevel.REINST_Qal_x1_y7_C_0
+[2020.05.17-13.47.19:050][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x1_y7_Auto13D9A3AC94457BCF6026BB89306A29F2C.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x1_y7_Auto1.umap'
+[2020.05.17-13.47.19:077][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x2_y0, Actor: /Game/Level/Landscape/Qal/Qal_x2_y0.Qal_x2_y0:PersistentLevel.REINST_Qal_x2_y0_C_0
+[2020.05.17-13.47.19:534][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x2_y0_Auto1C813614E4C130FC4162689974CB714D3.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x2_y0_Auto1.umap'
+[2020.05.17-13.47.19:563][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x2_y1, Actor: /Game/Level/Landscape/Qal/Qal_x2_y1.Qal_x2_y1:PersistentLevel.REINST_Qal_x2_y1_C_0
+[2020.05.17-13.47.20:013][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x2_y1_Auto10D3332D841ECB6C466A6E6B447F6FAD5.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x2_y1_Auto1.umap'
+[2020.05.17-13.47.20:043][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x2_y3, Actor: /Game/Level/Landscape/Qal/Qal_x2_y3.Qal_x2_y3:PersistentLevel.REINST_Qal_x2_y3_C_0
+[2020.05.17-13.47.20:499][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x2_y3_Auto14540BC8F4BFADAB246EF5F9BFBAA7E04.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x2_y3_Auto1.umap'
+[2020.05.17-13.47.20:526][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x2_y4, Actor: /Game/Level/Landscape/Qal/Qal_x2_y4.Qal_x2_y4:PersistentLevel.REINST_Qal_x2_y4_C_0
+[2020.05.17-13.47.20:997][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x2_y4_Auto189F70C5444838E43239C7484F43EE584.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x2_y4_Auto1.umap'
+[2020.05.17-13.47.21:027][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x2_y5, Actor: /Game/Level/Landscape/Qal/Qal_x2_y5.Qal_x2_y5:PersistentLevel.REINST_Qal_x2_y5_C_0
+[2020.05.17-13.47.21:569][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x2_y5_Auto1D86595654B6AA337AE134F9EB2D9FBEB.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x2_y5_Auto1.umap'
+[2020.05.17-13.47.21:598][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x2_y6, Actor: /Game/Level/Landscape/Qal/Qal_x2_y6.Qal_x2_y6:PersistentLevel.REINST_Qal_x2_y6_C_0
+[2020.05.17-13.47.22:133][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x2_y6_Auto1512E3BE0476099B90709F9ACA9743DD2.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x2_y6_Auto1.umap'
+[2020.05.17-13.47.22:161][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x2_y7, Actor: /Game/Level/Landscape/Qal/Qal_x2_y7.Qal_x2_y7:PersistentLevel.REINST_Qal_x2_y7_C_0
+[2020.05.17-13.47.22:670][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x2_y7_Auto1FAA01E1B4E5FDE04CFB2B0B3EC30A4EA.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x2_y7_Auto1.umap'
+[2020.05.17-13.47.22:696][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x3_y0, Actor: /Game/Level/Landscape/Qal/Qal_x3_y0.Qal_x3_y0:PersistentLevel.REINST_Qal_x3_y0_C_0
+[2020.05.17-13.47.23:128][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x3_y0_Auto182EE85FA4105929D530594B3F5717C4F.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x3_y0_Auto1.umap'
+[2020.05.17-13.47.23:153][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x3_y1, Actor: /Game/Level/Landscape/Qal/Qal_x3_y1.Qal_x3_y1:PersistentLevel.REINST_Qal_x3_y1_C_0
+[2020.05.17-13.47.23:579][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x3_y1_Auto1E4DA9CB4458ACC3ED9891A86F3686CF2.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x3_y1_Auto1.umap'
+[2020.05.17-13.47.23:606][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x3_y2, Actor: /Game/Level/Landscape/Qal/Qal_x3_y2.Qal_x3_y2:PersistentLevel.REINST_Qal_x3_y2_C_0
+[2020.05.17-13.47.24:042][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x3_y2_Auto120E3FD5245606DC8DA9CC98196592345.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x3_y2_Auto1.umap'
+[2020.05.17-13.47.24:069][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x3_y3, Actor: /Game/Level/Landscape/Qal/Qal_x3_y3.Qal_x3_y3:PersistentLevel.REINST_Qal_x3_y3_C_0
+[2020.05.17-13.47.24:511][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x3_y3_Auto1AB7CD83E4DEBE2E6F4015E80A6FFC22E.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x3_y3_Auto1.umap'
+[2020.05.17-13.47.24:540][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x3_y4, Actor: /Game/Level/Landscape/Qal/Qal_x3_y4.Qal_x3_y4:PersistentLevel.REINST_Qal_x3_y4_C_0
+[2020.05.17-13.47.25:041][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x3_y4_Auto167767D48483803789C5AF5A00ECCF26A.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x3_y4_Auto1.umap'
+[2020.05.17-13.47.25:071][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x3_y5, Actor: /Game/Level/Landscape/Qal/Qal_x3_y5.Qal_x3_y5:PersistentLevel.REINST_Qal_x3_y5_C_0
+[2020.05.17-13.47.25:628][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x3_y5_Auto12F89EF5A4493A27DAE34A39BC250E58E.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x3_y5_Auto1.umap'
+[2020.05.17-13.47.25:660][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x3_y6, Actor: /Game/Level/Landscape/Qal/Qal_x3_y6.Qal_x3_y6:PersistentLevel.REINST_Qal_x3_y6_C_0
+[2020.05.17-13.47.26:183][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x3_y6_Auto1D04FCE9A402B8A19EAA6A09C1418F9BD.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x3_y6_Auto1.umap'
+[2020.05.17-13.47.26:211][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x3_y7, Actor: /Game/Level/Landscape/Qal/Qal_x3_y7.Qal_x3_y7:PersistentLevel.REINST_Qal_x3_y7_C_0
+[2020.05.17-13.47.26:745][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x3_y7_Auto1BDA2950940DE565B90D579A482E81923.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x3_y7_Auto1.umap'
+[2020.05.17-13.47.26:773][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x4_y0, Actor: /Game/Level/Landscape/Qal/Qal_x4_y0.Qal_x4_y0:PersistentLevel.REINST_Qal_x4_y0_C_0
+[2020.05.17-13.47.27:287][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x4_y0_Auto18071C98D4C087C77B53EF6913D34B981.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x4_y0_Auto1.umap'
+[2020.05.17-13.47.27:313][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x4_y1, Actor: /Game/Level/Landscape/Qal/Qal_x4_y1.Qal_x4_y1:PersistentLevel.REINST_Qal_x4_y1_C_0
+[2020.05.17-13.47.27:789][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x4_y1_Auto14A4DF7BF4AEE5E07375778B883DC1EA4.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x4_y1_Auto1.umap'
+[2020.05.17-13.47.27:815][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x4_y2, Actor: /Game/Level/Landscape/Qal/Qal_x4_y2.Qal_x4_y2:PersistentLevel.REINST_Qal_x4_y2_C_0
+[2020.05.17-13.47.28:270][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x4_y2_Auto14F21E232430877FB9A7090A44E6313FF.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x4_y2_Auto1.umap'
+[2020.05.17-13.47.28:296][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x4_y3, Actor: /Game/Level/Landscape/Qal/Qal_x4_y3.Qal_x4_y3:PersistentLevel.REINST_Qal_x4_y3_C_0
+[2020.05.17-13.47.28:774][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x4_y3_Auto154EBA12A432FFDFBF9609BBBEF889EF0.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x4_y3_Auto1.umap'
+[2020.05.17-13.47.28:806][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x4_y4, Actor: /Game/Level/Landscape/Qal/Qal_x4_y4.Qal_x4_y4:PersistentLevel.REINST_Qal_x4_y4_C_0
+[2020.05.17-13.47.29:406][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x4_y4_Auto1BD40B60B444A54E44240EF9E36DC5BC5.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x4_y4_Auto1.umap'
+[2020.05.17-13.47.29:434][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x4_y5, Actor: /Game/Level/Landscape/Qal/Qal_x4_y5.Qal_x4_y5:PersistentLevel.REINST_Qal_x4_y5_C_0
+[2020.05.17-13.47.29:985][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x4_y5_Auto16D8DC7D4405D7DCBB57B1A81C9A7D878.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x4_y5_Auto1.umap'
+[2020.05.17-13.47.30:017][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x4_y6, Actor: /Game/Level/Landscape/Qal/Qal_x4_y6.Qal_x4_y6:PersistentLevel.REINST_Qal_x4_y6_C_0
+[2020.05.17-13.47.30:589][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x4_y6_Auto1DD92D5574D091990C0FAE5B8922638D4.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x4_y6_Auto1.umap'
+[2020.05.17-13.47.30:618][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x4_y7, Actor: /Game/Level/Landscape/Qal/Qal_x4_y7.Qal_x4_y7:PersistentLevel.REINST_Qal_x4_y7_C_0
+[2020.05.17-13.47.31:132][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x4_y7_Auto1FB4EFFFD446D1B2CC2C61B8CF0A02E2E.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x4_y7_Auto1.umap'
+[2020.05.17-13.47.31:205][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x5_y0, Actor: /Game/Level/Landscape/Qal/Qal_x5_y0.Qal_x5_y0:PersistentLevel.REINST_Qal_x5_y0_C_0
+[2020.05.17-13.47.31:648][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x5_y0_Auto1EE108B2B4DEEF2AD7737028017795216.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x5_y0_Auto1.umap'
+[2020.05.17-13.47.31:745][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x5_y1, Actor: /Game/Level/Landscape/Qal/Qal_x5_y1.Qal_x5_y1:PersistentLevel.REINST_Qal_x5_y1_C_0
+[2020.05.17-13.47.32:190][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x5_y1_Auto1964259C74A8BC3E475F960BFD05C0C45.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x5_y1_Auto1.umap'
+[2020.05.17-13.47.32:216][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x5_y2, Actor: /Game/Level/Landscape/Qal/Qal_x5_y2.Qal_x5_y2:PersistentLevel.REINST_Qal_x5_y2_C_0
+[2020.05.17-13.47.32:658][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x5_y2_Auto180536E21459D4FDBEFB691A1344911CA.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x5_y2_Auto1.umap'
+[2020.05.17-13.47.32:685][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x5_y3, Actor: /Game/Level/Landscape/Qal/Qal_x5_y3.Qal_x5_y3:PersistentLevel.REINST_Qal_x5_y3_C_0
+[2020.05.17-13.47.33:106][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x5_y3_Auto17F2C4B3749F2B0D44FBC9899C7CFF465.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x5_y3_Auto1.umap'
+[2020.05.17-13.47.33:133][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x5_y4, Actor: /Game/Level/Landscape/Qal/Qal_x5_y4.Qal_x5_y4:PersistentLevel.REINST_Qal_x5_y4_C_0
+[2020.05.17-13.47.33:559][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x5_y4_Auto125EB766A4488C1F1B08C34A260A9A69A.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x5_y4_Auto1.umap'
+[2020.05.17-13.47.33:589][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x5_y5, Actor: /Game/Level/Landscape/Qal/Qal_x5_y5.Qal_x5_y5:PersistentLevel.REINST_Qal_x5_y5_C_0
+[2020.05.17-13.47.34:048][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x5_y5_Auto1AE4A8A85467A222A503F719FA34B8880.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x5_y5_Auto1.umap'
+[2020.05.17-13.47.34:078][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x5_y6, Actor: /Game/Level/Landscape/Qal/Qal_x5_y6.Qal_x5_y6:PersistentLevel.REINST_Qal_x5_y6_C_0
+[2020.05.17-13.47.34:616][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x5_y6_Auto1043F8FE1418A0B1F11AB519736B182BD.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x5_y6_Auto1.umap'
+[2020.05.17-13.47.34:645][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x5_y7, Actor: /Game/Level/Landscape/Qal/Qal_x5_y7.Qal_x5_y7:PersistentLevel.REINST_Qal_x5_y7_C_0
+[2020.05.17-13.47.35:185][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x5_y7_Auto1B94971D94939A15492A59EA972418CC3.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x5_y7_Auto1.umap'
+[2020.05.17-13.47.35:212][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x6_y0, Actor: /Game/Level/Landscape/Qal/Qal_x6_y0.Qal_x6_y0:PersistentLevel.REINST_Qal_x6_y0_C_0
+[2020.05.17-13.47.35:689][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x6_y0_Auto16489B34F4F46DD71E37F5594EACFB4E5.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x6_y0_Auto1.umap'
+[2020.05.17-13.47.35:716][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x6_y1, Actor: /Game/Level/Landscape/Qal/Qal_x6_y1.Qal_x6_y1:PersistentLevel.REINST_Qal_x6_y1_C_0
+[2020.05.17-13.47.36:184][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x6_y1_Auto1DBCE67004A2291D38A95A38F124DA4D8.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x6_y1_Auto1.umap'
+[2020.05.17-13.47.36:210][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x6_y2, Actor: /Game/Level/Landscape/Qal/Qal_x6_y2.Qal_x6_y2:PersistentLevel.REINST_Qal_x6_y2_C_0
+[2020.05.17-13.47.36:678][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x6_y2_Auto138D554DA4467557F9474C4998584EE86.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x6_y2_Auto1.umap'
+[2020.05.17-13.47.36:705][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x6_y3, Actor: /Game/Level/Landscape/Qal/Qal_x6_y3.Qal_x6_y3:PersistentLevel.REINST_Qal_x6_y3_C_0
+[2020.05.17-13.47.37:139][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x6_y3_Auto13D670C704033CF592467BC93DCF129DD.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x6_y3_Auto1.umap'
+[2020.05.17-13.47.37:164][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x6_y4, Actor: /Game/Level/Landscape/Qal/Qal_x6_y4.Qal_x6_y4:PersistentLevel.REINST_Qal_x6_y4_C_0
+[2020.05.17-13.47.37:612][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x6_y4_Auto1B578882D42E7AA876D9834991EC00D82.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x6_y4_Auto1.umap'
+[2020.05.17-13.47.37:641][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x6_y5, Actor: /Game/Level/Landscape/Qal/Qal_x6_y5.Qal_x6_y5:PersistentLevel.REINST_Qal_x6_y5_C_0
+[2020.05.17-13.47.38:133][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x6_y5_Auto1A4BEA08344097314015749931AB00A05.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x6_y5_Auto1.umap'
+[2020.05.17-13.47.38:164][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x6_y6, Actor: /Game/Level/Landscape/Qal/Qal_x6_y6.Qal_x6_y6:PersistentLevel.REINST_Qal_x6_y6_C_0
+[2020.05.17-13.47.38:658][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x6_y6_Auto156FDA5354EB8ED6DA1ED249FDB918658.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x6_y6_Auto1.umap'
+[2020.05.17-13.47.38:689][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x6_y7, Actor: /Game/Level/Landscape/Qal/Qal_x6_y7.Qal_x6_y7:PersistentLevel.REINST_Qal_x6_y7_C_0
+[2020.05.17-13.47.39:191][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x6_y7_Auto173B6163E414548A80EBA098D739E5456.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x6_y7_Auto1.umap'
+[2020.05.17-13.47.39:220][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x7_y0, Actor: /Game/Level/Landscape/Qal/Qal_x7_y0.Qal_x7_y0:PersistentLevel.REINST_Qal_x7_y0_C_0
+[2020.05.17-13.47.39:678][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x7_y0_Auto173CACA964991AD9BAFFC748FD6ACBDA5.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x7_y0_Auto1.umap'
+[2020.05.17-13.47.39:707][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x7_y1, Actor: /Game/Level/Landscape/Qal/Qal_x7_y1.Qal_x7_y1:PersistentLevel.REINST_Qal_x7_y1_C_0
+[2020.05.17-13.47.40:166][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x7_y1_Auto13A5DDA91417CB7C3320AA1BEAE274ED8.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x7_y1_Auto1.umap'
+[2020.05.17-13.47.40:194][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x7_y2, Actor: /Game/Level/Landscape/Qal/Qal_x7_y2.Qal_x7_y2:PersistentLevel.REINST_Qal_x7_y2_C_0
+[2020.05.17-13.47.40:624][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x7_y2_Auto15DBE2F374BB8C05F0065CB87B0336185.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x7_y2_Auto1.umap'
+[2020.05.17-13.47.40:651][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x7_y3, Actor: /Game/Level/Landscape/Qal/Qal_x7_y3.Qal_x7_y3:PersistentLevel.REINST_Qal_x7_y3_C_0
+[2020.05.17-13.47.41:129][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x7_y3_Auto145DD0D0547676D1A61192297349DDC4F.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x7_y3_Auto1.umap'
+[2020.05.17-13.47.41:156][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x7_y4, Actor: /Game/Level/Landscape/Qal/Qal_x7_y4.Qal_x7_y4:PersistentLevel.REINST_Qal_x7_y4_C_0
+[2020.05.17-13.47.41:690][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x7_y4_Auto108DB956E4FF5EF442FBABC94AFA247FD.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x7_y4_Auto1.umap'
+[2020.05.17-13.47.41:717][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x7_y5, Actor: /Game/Level/Landscape/Qal/Qal_x7_y5.Qal_x7_y5:PersistentLevel.REINST_Qal_x7_y5_C_0
+[2020.05.17-13.47.42:217][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x7_y5_Auto1EF3BBC4240558CC16706EAABE8709BB2.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x7_y5_Auto1.umap'
+[2020.05.17-13.47.42:246][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x7_y6, Actor: /Game/Level/Landscape/Qal/Qal_x7_y6.Qal_x7_y6:PersistentLevel.REINST_Qal_x7_y6_C_0
+[2020.05.17-13.47.42:843][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x7_y6_Auto164AEA8D14C2ACEABA5AC03AAE4A8D482.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x7_y6_Auto1.umap'
+[2020.05.17-13.47.42:872][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x7_y7, Actor: /Game/Level/Landscape/Qal/Qal_x7_y7.Qal_x7_y7:PersistentLevel.REINST_Qal_x7_y7_C_0
+[2020.05.17-13.47.43:512][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x7_y7_Auto1BE37B0814AC362C2F88BD68567C645CF.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x7_y7_Auto1.umap'
+[2020.05.17-13.47.43:582][612]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Qal_x2_y2, Actor: /Game/Level/Landscape/Qal/Qal_x2_y2.Qal_x2_y2:PersistentLevel.REINST_Qal_x2_y2_C_0
+[2020.05.17-13.47.44:031][612]LogSavePackage: Moving '../../../../../Unreal Projects/LEVEL/Level/Saved/Qal_x2_y2_Auto1BE2DF87947B89C51CF1E2CA0F33F96D5.tmp' to '../../../../../Unreal Projects/LEVEL/Level/Saved/Autosaves/Game/Level/Landscape/Qal/Qal_x2_y2_Auto1.umap'
+[2020.05.17-13.47.44:043][612]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/Landscape/Start_Level' took 35.038
+[2020.05.17-13.47.44:043][612]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 35.038
