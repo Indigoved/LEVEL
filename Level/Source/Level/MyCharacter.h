@@ -3,16 +3,20 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "GameFramework/Character.h"
+#include "GameFramework/Pawn.h"
+#include "Components/BoxComponent.h"
+#include "Components/CapsuleComponent.h"
+#include "Components/SphereComponent.h"
+#include "Camera/CameraComponent.h"
 #include "MyCharacter.generated.h"
 
 UCLASS()
-class LEVEL_API AMyCharacter : public ACharacter
+class LEVEL_API AMyCharacter : public APawn
 {
 	GENERATED_BODY()
 
 public:
-	// Sets default values for this character's properties
+	// Sets default values for this pawn's properties
 	AMyCharacter();
 
 protected:
@@ -20,66 +24,75 @@ protected:
 	virtual void BeginPlay() override;
 
 public:	
-	
-		
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
-	//блок статистик
-	float UGetStamina() { return stamina; }//возвращает количество выносливости
-	float UGetBlood() { return TheAmountOfBlood; }//возвращает количество крови
-	float UGetConcentration() { return concentration; }//возвращает количество концентрации
-	float UGetPhysicalState() { return ThePhysicalState; }//возвращает количество физического состояния
-	bool UIsDead();//указывает жив игрок или нет
-	bool UIsFracture() { return fracture; }//показывает нанесен ли перелом
-	bool UIsBleeding() { return bleeding; }//показывает наличие кровотечения
-	bool UIsStun() { return stun; }//показывает наличие оглушения
-	bool UIsdehydration() { return dehydration; }//показывает наличие обезвоживания
-	bool UIsHunger() { return hunger; }//показывает наличие голода
-	bool UIsCold() { return cold; }//показывает замерзает персонаж или нет
-	bool UIsHeat() { return heat; }//показывает жарко персонажу или нет
-	bool UIsChoking() { return choking; }//показывает наличие удушья
-	bool UIsTreatment() { return treatment; }//показывает наличие лечения
-	bool UIsFrostbite() { return frostbite; }//показывает наличие обморожения
-	bool UIsOverheating() { return overheating; }//показывает наличие перегрева
-	bool UIsBlinding() { return blinding; }//показывает наличие ослепления
-	float DefeatedDamage(float damage, int where);//просчет входящего урона
-private:
-	// система здоровья игрока
-	float stamina;
-	const float maxStamina = 100;
-	float TheAmountOfBlood;
-	const float maxTheAmountOfBlood = 100;
-	float concentration;
-	const float maxOfconcentration = 100;
-	float ThePhysicalState;
-	const float maxOfThePhysicalState = 100;
-	bool isDead;
-	//система хитбоксов
-	enum PartOfTheBody
-	{
-		Head,
-		Body,
-		Hand,
-		Leg
-	};
-	const float mHead = 1;
-	const float mBody = 0.5;
-	const float mLegOrHand = 0.25;
-	//статус эффекты
-	bool fracture;
-	bool bleeding;
-	bool stun;
-	bool dehydration;
-	bool hunger;
-	bool cold;
-	bool heat;
-	bool choking;
-	bool treatment;
-	bool frostbite;
-	bool overheating;
-	bool blinding;
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Mesh")
+		USkeletalMeshComponent* HeroMesh;	
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "ManeCollision")
+		UCapsuleComponent* ManeCollision;
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Hitbox")
+		UBoxComponent* ChestCollision;
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Hitbox")
+		UBoxComponent* WaistCollision;
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Hitbox")
+		UBoxComponent* BodyCollision;
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Hitbox")
+		UCapsuleComponent* HeadCollision;
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Hitbox")
+		UCapsuleComponent* RightLegCollision;
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Hitbox")
+		UCapsuleComponent* LeftLegCollision;
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Hitbox")
+		UCapsuleComponent* RightArmCollision;
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Hitbox")
+		UCapsuleComponent* LeftArmCollision;
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Hitbox")
+		UCapsuleComponent* LeftHandCollision;
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Hitbox")
+		UCapsuleComponent* RightHandCollision;
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Hitbox")
+		UCapsuleComponent* LeftHipCollision;
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Hitbox")
+		UCapsuleComponent* RightHipCollision;
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Hitbox")
+		USphereComponent* LeftWristCollision;
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Hitbox")
+		USphereComponent* RightWristCollision;
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Camera")
+		UCameraComponent* FirstPersonCamera;
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Camera")
+		UCameraComponent* ThirdPersonCamera;
+
+	UFUNCTION()
+		void MoveForward(float amount);
+	UFUNCTION()
+		void MoveBack(float amount);
+	UFUNCTION()
+		void MoveRight(float amount);
+	UFUNCTION()
+		void MoveLeft(float amount);
+	/*UFUNCTION()
+		void MoveJump(float amount);*/
+	UFUNCTION()
+		void Yaw(float amount);
+	UFUNCTION()
+		void Pitch(float amount);
+
+	//система здоровья
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "PhisicalState")
+		float PhysicalState;
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Blood")
+		float blood;
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Dead")
+		bool isDead;
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "LowBlood")
+		bool LowBlood;
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Broken")
+		bool Broken;
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "DamageKf")
+		float Kf;
 };

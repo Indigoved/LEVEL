@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Level.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{987F3456-5432-4D73-92D1-3C8906EE7458}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Level.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LevelEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Level.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{7D363AAE-DCFF-4A48-B8BD-7DA4695C761E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultCrypto.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Level">
+      <UniqueIdentifier>{C47DA574-3DCE-4125-A91A-11E4CA528E23}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Level\Level.Build.cs">
+      <Filter>Source\Level</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Level\Level.cpp">
+      <Filter>Source\Level</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Level\Level.h">
+      <Filter>Source\Level</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Level\MyCharacter.cpp">
+      <Filter>Source\Level</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Level\MyCharacter.h">
+      <Filter>Source\Level</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
